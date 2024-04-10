@@ -1,3 +1,3 @@
 # Project-Amazon-Clone
-# using Html ans CSS 
+# using Html and CSS 
 # only frontend part
